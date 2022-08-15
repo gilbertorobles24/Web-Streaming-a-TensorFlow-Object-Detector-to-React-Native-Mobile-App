@@ -4,7 +4,7 @@ Note: This project was developed in Windows. The directory organization should s
 
 There are two components two major components to this:
 
-Using Transfer Learning with a TensorFlow Hub pre-trained object detection algorithm.
+### Using Transfer Learning with a TensorFlow Hub pre-trained object detection algorithm.
 1. Creating a React Native mobile app which can remotely visualize the result.
 2. Potential applications for a project like this:
 * Smart surveillance camera system with object detection, motion detection, face-recognition, etc.
@@ -13,7 +13,7 @@ Using Transfer Learning with a TensorFlow Hub pre-trained object detection algor
 * All the processing stays in one device. For example, this project could be deployed into a Raspberry Pi by simply using a TensorFlow Lite version of the model. The Raspberry Pi then would take care entirely of the processing. Meanwhile, the app on your phone merely visualizes the results from your computing device holding the camera. Note: The computing device with the camera doing the object recognition could be a laptop or even a phone. Your choice!
 
 
-## React Native App
+### React Native App
 Please note that the code related to the React Native App is not the app itself. Rather it is a sample of what the two essential files in the project should look like.
 
 
