@@ -32,6 +32,11 @@ Project References and Troubleshooting:
 
 
 # Project Usage
+<p align="center">
+  <img src="images/cat.jpg" width=500>
+  <img src="images/screenshot2.jpg" width=500>
+</p>
+
 ### React Native
 I created my React Native App with expo, simply with expo init YourAppName. Which initializes a blank RN project folder.
 
@@ -53,7 +58,7 @@ Note: If making changes to the file while the script is running, it will update 
 
 # Challenges and Current Problems
 
-* As of now this project requires a shared WiFi connection between mobile device and computer running the object detection (whether it's a laptop or a Raspberry Pi). Limiting the capability and range of the project.
+* (If using strictly on RN Expo) As of now this project requires a shared WiFi connection between mobile device and computer running the object detection (whether it's a laptop or a Raspberry Pi). Limiting the capability and range of the project.
 
 * This project does not yet address the Flask settings for allowing multiple devices to access the server port. This is not an issue when setting up a server through the HTTP class, however, the Flask server tends to crash if multiple devices access the port at once.
 
