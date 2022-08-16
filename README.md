@@ -57,6 +57,8 @@ Note: If making changes to the file while the script is running, it will update 
 
 * This project does not yet address the Flask settings for allowing multiple devices to access the server port. This is not an issue when setting up a server through the HTTP class, however, the Flask server tends to crash if multiple devices access the port at once.
 
+* The current model does not do too well on the Raspberry Pi as it needs more processing power. Similar projects spend the $350 for the USB Coral Accelerator for Raspberry Pi, but research is in development for a more efficient model which can run fast enough on the Pi.
+
 
 # Video Demos
 
