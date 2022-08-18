@@ -67,7 +67,13 @@ Note: If making changes to the file while the script is running, it will update 
 
 # Video Demos
 
-### Object Recognition Driving at Night
+### Video Project
 
-### Object Recognition Driving in Daylight
+<a href="https://youtu.be/3nGN7Z-GgZ0"><img src="images/thumb.jpg" alt="Video Project" width=500></a>
+
+### (CLIP) Object Recognition Driving at Night
+<a href="https://youtube.com/shorts/TvxepFgnhqM?feature=share"><img src="images/thumb2.jpg" alt="Video Project" width=500></a>
+
+### (CLIP) Object Recognition Driving in Daylight
+<a href="https://youtube.com/shorts/_10jJ85aSUo?feature=share"><img src="images/screenshot2.jpg" alt="Video Project" width=500></a>
 
